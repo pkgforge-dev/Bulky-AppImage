@@ -10,7 +10,7 @@ export ADD_HOOKS="self-updater.bg.hook"
 export UPINFO="gh-releases-zsync|${GITHUB_REPOSITORY%/*}|${GITHUB_REPOSITORY#*/}|latest|*$ARCH.AppImage.zsync"
 export ICON=/usr/share/icons/hicolor/scalable/apps/bulky.svg
 export DESKTOP=/usr/share/applications/bulky.desktop
-export DEPLOY_PYHON=1
+export DEPLOY_PYTHON=1
 export ALWAYS_SOFTWARE=1
 
 # /usr/bin/bulky is a bash script that just executes bulky
