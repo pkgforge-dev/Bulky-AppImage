@@ -13,6 +13,7 @@ export DESKTOP=/usr/share/applications/bulky.desktop
 export DEPLOY_PYTHON=1
 export ALWAYS_SOFTWARE=1
 export PATH_MAPPING='/usr/share/bulky:${SHARUN_DIR}/share/bulky'
+export APPNAME=Bulky
 
 # /usr/bin/bulky is a bash script that just executes bulky
 # there is no point in that, just symlink the python script directly lol
