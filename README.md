@@ -7,13 +7,13 @@
 [![Latest Stable Release](https://img.shields.io/github/v/release/pkgforge-dev/Bulky-AppImage)](https://github.com/pkgforge-dev/Bulky-AppImage/releases/latest)
 
 <p align="center">
-  <img src="https://github.com/pkgforge-dev.png" width="128" />
+  <img src="https://raw.githubusercontent.com/linuxmint/bulky/26be5a532c79ba42065c5b66d19995f04e6684f2/usr/share/icons/hicolor/scalable/apps/bulky.svg" width="128" />
 </p>
 
 
 | Latest Stable Release | Upstream URL |
 | :---: | :---: |
-| [Click here](https://github.com/pkgforge-dev/Bulky-AppImage/releases/latest) | [Click here](https://github.com/pkgforge-dev/Anylinux-AppImages) |
+| [Click here](https://github.com/pkgforge-dev/Bulky-AppImage/releases/latest) | [Click here](https://github.com/linuxmint/bulky) |
 
 </div>
 
